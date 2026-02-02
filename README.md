@@ -14,6 +14,10 @@ The Game: Here, a random word (a fruit name) is picked up from our collection an
 When a letter in that word is guessed correctly, that letter position in the word is made visible. In this way, all letters of the word are to be guessed before all the chances are over. 
 For convenience, we have given length of word + 2 chances. For example, word to be guessed is mango, then user gets 5 + 2 = 7 chances, as mango is a five-letter word.
 
+Output: 
+<img width="322" height="217" alt="image" src="https://github.com/user-attachments/assets/c1b69e86-3617-4527-951d-6714153a9772" />
+
+
 
 Code Explanation:
 
